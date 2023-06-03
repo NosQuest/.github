@@ -17,13 +17,13 @@ NosQuest is a private server for the game Nostale, offering a customized and enh
 
 ## Installation
 
-At present, NosQuest is not publicly released. We are diligently working on finalizing the installation process and making it available to the community. Stay tuned for updates on our official website at [nosquest.eu](https://www.nosquest.eu) for future release announcements.
+At present, NosQuest is not publicly released. We are diligently working on finalizing the installation process and making it available to the community. Stay tuned for updates on our official website at [nosquest.eu](https://nosquest.eu/) for future release announcements.
 
 ## Usage
 
 Once NosQuest is released and ready for installation, follow the instructions below to get started:
 
-1. Visit our official website at [nosquest.eu](https://www.nosquest.eu) and navigate to the download section.
+1. Visit our official website at [nosquest.eu](https://nosquest.eu/) and navigate to the download section.
 2. Download the appropriate client version for your operating system (Windows or macOS).
 3. Run the installer and follow the on-screen instructions to complete the installation process.
 4. Launch the NosQuest client and log in using your account credentials. If you don't have an account, you can create one.
@@ -37,6 +37,6 @@ We appreciate contributions from the community to help us improve NosQuest. Whil
 
 For any assistance or questions regarding NosQuest, feel free to reach out to us through the following channels:
 
-- Website: [nosquest.eu](https://www.nosquest.eu)
+- Website: [nosquest.eu](https://nosquest.eu/)
 - Email: [support@nosquest.eu](mailto:support@nosquest.eu)
 - Discord: [NosQuest Official](https://discord.gg/buDrDYhgcn)
